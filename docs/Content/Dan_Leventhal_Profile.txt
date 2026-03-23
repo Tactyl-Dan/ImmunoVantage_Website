@@ -1,0 +1,58 @@
+# Daniel S. Leventhal, MS, PhD
+
+## Professional Summary
+Immunogenicity and translational science leader with over a decade of experience spanning biologics discovery, preclinical and clinical development, and biotech platform strategy. Internationally recognized for expertise in immunogenicity risk assessment and mitigation, with a strong track record of pairing strategic leadership with hands-on execution. Extensive experience operating at the interface of immunology, protein engineering, bioanalytics, and computational science to proactively de-risk biologic programs and enable confident development decisions.
+
+---
+
+## Core Expertise
+- Immunogenicity risk assessment, mitigation, and strategy
+- Translational immunology and immune tolerance
+- Biologics discovery and development (IND-enabling through early clinical)
+- In silico, in vitro, and in vivo immunogenicity tools
+- Immunogenicity assay development and benchmarking
+- Regulatory support and IND contributions
+- CRO strategy and external partnership management
+- AI/ML and agentic workflows in biologics R&D
+- Startup R&D leadership and capability build-out
+
+---
+
+## Professional Experience
+
+### Principal Consultant  
+**Tactyl Consulting** — Self-employed  
+*September 2025 – Present*  
+*Remote*
+
+- Lead client engagements focused on immunogenicity strategy and execution across biologics and advanced therapeutic modalities.
+- Provide strategic advisement paired with hands-on tactical support across preclinical discovery and development.
+- Design and implement immunogenicity risk assessment frameworks tailored to therapeutic modality, mechanism of action, and program stage.
+- Support biotech R&D operations including study design, data analysis, CRO management, and regulatory preparation.
+- Guide organizations through digital transformation initiatives, including the integration of AI and agentic workflows into R&D.
+- Leverage experience from AI-native and biologics-focused startups to deliver pragmatic, scalable, and forward-looking solutions.
+
+---
+
+### Director, Head of Immunogenicity  
+**Xaira Therapeutics**  
+*2024 – 2025*
+
+- Led development and execution of enterprise-wide immunogenicity risk assessment and mitigation strategy supporting both platform and pipeline programs.
+- Built and scaled the immunogenicity function, integrating closely with immunology, protein design, bioanalytical, and computational teams.
+- Partnered with machine learning and protein design groups to develop next-generation computational tools for MHC II presentation prediction, humanness assessment, and immune tolerance engineering.
+- Established internal best practices and benchmarks for immunogenicity assay development and validation.
+- Represented the company externally through leadership roles in industry working groups and invited scientific presentations.
+- Supported development of digital workflows, data architecture, developability strategy, and enterprise adoption of generative AI tools to enhance productivity and decision-making.
+
+---
+
+### Associate Director, Predictive & Translational Biology  
+**Generate Biomedicines**  
+*2019 – 2024*
+
+- Created and led a cross-functional immunogenicity-focused function spanning technology development and program support, managing an annual budget of approximately $2–3.5M.
+- Recruited, mentored, and managed a multidisciplinary team of scientists across seniority levels.
+- Contributed to the build-out of the Translational Sciences organization, working closely with bioanalytical and biomarker teams.
+- Initiated and led an R&D program that matured into a strategic collaboration with a large biopharma partner.
+- Led and participated in multiple ext

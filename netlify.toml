@@ -1,0 +1,73 @@
+# Netlify Configuration
+# https://docs.netlify.com/configure-builds/file-based-configuration/
+
+# Build settings
+[build]
+  # No build command needed for static HTML
+  publish = "."
+
+# Headers for security and caching
+[[headers]]
+  for = "/*"
+  [headers.values]
+    # Security headers
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Cache static assets
+[[headers]]
+  for = "/css/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "/js/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+
+# Redirects for clean URLs (optional)
+# Uncomment if you want /services instead of /services.html
+# [[redirects]]
+#   from = "/services"
+#   to = "/services.html"
+#   status = 200
+
+# [[redirects]]
+#   from = "/when-to-assess"
+#   to = "/when-to-assess.html"
+#   status = 200
+
+# [[redirects]]
+#   from = "/what-to-expect"
+#   to = "/what-to-expect.html"
+#   status = 200
+
+# [[redirects]]
+#   from = "/team"
+#   to = "/team.html"
+#   status = 200
+
+# [[redirects]]
+#   from = "/our-take"
+#   to = "/our-take.html"
+#   status = 200
+
+# [[redirects]]
+#   from = "/contact"
+#   to = "/contact.html"
+#   status = 200
+
+# Custom 404 page (create 404.html if you want custom error page)
+# [[redirects]]
+#   from = "/*"
+#   to = "/404.html"
+#   status = 404
+
+# Form handling is automatic with data-netlify="true" attribute

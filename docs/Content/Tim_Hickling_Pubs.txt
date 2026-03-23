@@ -1,0 +1,109 @@
+## Selected Publications — Tim Hickling
+
+### Immunogenicity of Biotherapeutics (Strategy, Risk, Mitigation)
+- Davda J, Declerck P, Hu-Lieskovan S, **Hickling TP**, et al.  
+  *Immunogenicity of immunomodulatory, antibody-based oncology therapeutics.*  
+  Journal for Immunotherapy of Cancer (2019).
+
+- Yin L, Chen X, Vicini P, Rup B, **Hickling TP**.  
+  *Therapeutic outcomes, assessments, risk factors and mitigation efforts of immunogenicity of therapeutic protein products.*  
+  Cellular Immunology (2015).
+
+- Tourdot S, **Hickling TP**.  
+  *Nonclinical immunogenicity risk assessment of therapeutic proteins.*  
+  Bioanalysis (2019).
+
+- Strand V, Gonçalves J, **Hickling TP**, et al.  
+  *Immunogenicity of biosimilars for rheumatic diseases, plaque psoriasis, and inflammatory bowel disease.*  
+  BioDrugs (2020).
+
+- Gorovits B, Baltrukonis DJ, Bhattacharya I, **Hickling TP**, et al.  
+  *Immunogenicity assessment of biologics in clinical studies in chronic inflammatory disease.*  
+  Arthritis & Rheumatology (2016).
+
+---
+
+### Quantitative & Systems Modeling of Immunogenicity
+- Chen X, **Hickling TP**, Vicini P.  
+  *A mechanistic, multiscale mathematical model of immunogenicity for therapeutic proteins: Part 1 – Theory.*  
+  CPT: Pharmacometrics & Systems Pharmacology (2014).
+
+- Chen X, **Hickling TP**, Vicini P.  
+  *A mechanistic, multiscale mathematical model of immunogenicity for therapeutic proteins: Part 2 – Applications.*  
+  CPT: Pharmacometrics & Systems Pharmacology (2014).
+
+- Chen X, **Hickling TP**, Kraynov E, et al.  
+  *A mathematical model of the effect of immunogenicity on therapeutic protein pharmacokinetics.*  
+  The AAPS Journal (2013).
+
+- Kierzek AM, **Hickling TP**, et al.  
+  *A quantitative systems pharmacology consortium approach to managing immunogenicity of therapeutic proteins.*  
+  CPT: Pharmacometrics & Systems Pharmacology (2019).
+
+- Rahman A, Narula J, **Hickling TP**.  
+  *Importance of feedback and feedforward loops to adaptive immune response modeling.*  
+  CPT: Pharmacometrics & Systems Pharmacology (2018).
+
+---
+
+### Antigen Presentation, MHC, and Cellular Drivers of Immunogenicity
+- Xue L, **Hickling TP**, et al.  
+  *Contribution of enhanced engagement of antigen presentation machinery to the clinical immunogenicity of a therapeutic antibody.*  
+  Clinical & Experimental Immunology (2016).
+
+- Siegel M, Steiner G, **Hickling TP**, et al.  
+  *Validation of dendritic cell and CD4+ T cell restimulation assays contributing to immunogenicity risk evaluation.*  
+  Pharmaceutics (2022).
+
+- Hartman K, Steiner G, **Hickling TP**, et al.  
+  *Expanding the MAPPs assay to accommodate MHC-II pan receptors for improved predictability of T cell epitopes.*  
+  Biology (2023).
+
+- Casasola-LaMacchia A, Seward RJ, **Hickling TP**, et al.  
+  *HLA class II peptide presentation of infliximab increases when complexed with TNF.*  
+  Frontiers in Immunology (2022).
+
+---
+
+### Viral Immunology & Structural Biology (Foundational Work)
+- Owsianka AM, Timms JM, Tarr AW, **Hickling TP**, et al.  
+  *Identification of conserved residues in the HCV E2 envelope glycoprotein critical for CD81 binding.*  
+  Journal of Virology (2006).
+
+- Tarr AW, Owsianka AM, Timms JM, **Hickling TP**, et al.  
+  *Characterization of the hepatitis C virus E2 epitope defined by a broadly neutralizing monoclonal antibody.*  
+  Hepatology (2006).
+
+- **Hickling TP**, Malhotra R, Sim RB.  
+  *Human lung surfactant protein A exists in several oligomeric states with functional implications.*  
+  Molecular Medicine (1998).
+
+- **Hickling TP**, Clark H, Malhotra R, Sim RB.  
+  *Collectins and their role in lung immunity.*  
+  Journal of Leukocyte Biology (2004).
+
+---
+
+### Methodology, Assays, and Best Practices
+- Ducret A, Ackaert C, Bessa J, **Hickling TP**, et al.  
+  *Assay format diversity in pre-clinical immunogenicity risk assessment.*  
+  mAbs (2022).
+
+- Siegel M, Bolender AL, **Hickling TP**, et al.  
+  *Internalization of therapeutic antibodies into dendritic cells as a risk factor for immunogenicity.*  
+  Frontiers in Immunology (2024).
+
+- Tourdot S, Karle AC, **Hickling TP**, et al.  
+  *T cell assays for non-clinical immunogenicity risk assessment: EIP best practices.*  
+  Frontiers in Immunology (2025).
+
+---
+
+### Community & Field-Building Contributions
+- **Hickling TP**, Chen X, Vicini P, Nayak S.  
+  *A review of quantitative modeling of B cell responses to antigenic challenge.*  
+  Journal of Pharmacokinetics and Pharmacodynamics (2014).
+
+- Agnihotri S, Gonzalez-Nolasco B, Monian B, Pattijn S, **Hickling TP**, et al.  
+  *The Immunogenicity Database Collaborative (IDC): A standardized public database for clinical immunogenicity.*  
+  bioRxiv (2025).

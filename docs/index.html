@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="ImmunoVantage — Strategic immunogenicity risk assessment consulting for biologics development. Advantage through expertise, foresight and action.">
+    <meta name="keywords"
+        content="immunogenicity, risk assessment, biologics, drug development, consulting, IRA, anti-drug antibodies, immunovantage">
+
+    <title>ImmunoVantage | Immunogenicity Risk Assessment Consulting</title>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="images/IV_ICON.png">
+
+    <!-- Google Fonts - Inter (headings) + IBM Plex Sans (body) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Inter:wght@500;600;700&display=swap"
+        rel="stylesheet">
+
+    <!-- Main Stylesheet -->
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+    <!-- ============================================
+         HEADER / NAVIGATION
+         ============================================ -->
+    <header class="header">
+        <div class="container header__inner">
+            <!-- Logo - ImmunoVantage -->
+            <a href="index.html" class="logo" aria-label="ImmunoVantage home">
+                <img src="images/ImmunoVantage_Logo_Transparent.png" alt="ImmunoVantage Logo" style="height: 48px; width: auto;">
+            </a>
+
+            <!-- Desktop Navigation -->
+            <nav class="nav" aria-label="Main navigation">
+                <ul class="nav__list">
+                    <li><a href="index.html" class="nav__link nav__link--active">Home</a></li>
+                    <li><a href="services.html" class="nav__link">Services</a></li>
+                    <li><a href="when-to-assess.html" class="nav__link">When to Assess</a></li>
+                    <li><a href="what-to-expect.html" class="nav__link">What to Expect</a></li>
+                    <li><a href="team.html" class="nav__link">Team</a></li>
+                    <li><a href="our-take.html" class="nav__link">Our Take</a></li>
+                    <li><a href="contact.html" class="nav__link nav__link--cta">Contact</a></li>
+                </ul>
+            </nav>
+
+            <!-- Mobile Menu Toggle -->
+            <button class="menu-toggle" aria-label="Toggle menu" aria-expanded="false">
+                <span class="menu-toggle__bar"></span>
+                <span class="menu-toggle__bar"></span>
+                <span class="menu-toggle__bar"></span>
+            </button>
+        </div>
+
+        <!-- Mobile Navigation -->
+        <nav class="mobile-nav" aria-label="Mobile navigation">
+            <ul class="mobile-nav__list">
+                <li><a href="index.html" class="mobile-nav__link mobile-nav__link--active">Home</a></li>
+                <li><a href="services.html" class="mobile-nav__link">Services</a></li>
+                <li><a href="when-to-assess.html" class="mobile-nav__link">When to Assess</a></li>
+                <li><a href="what-to-expect.html" class="mobile-nav__link">What to Expect</a></li>
+                <li><a href="team.html" class="mobile-nav__link">Team</a></li>
+                <li><a href="our-take.html" class="mobile-nav__link">Our Take</a></li>
+                <li><a href="contact.html" class="mobile-nav__link">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <!-- ============================================
+             SECTION 1: HERO
+             ============================================ -->
+        <section class="hero">
+            <div class="container hero__content reveal-on-scroll">
+                <h1 class="hero__title">Providing Immunogenicity Risk Assessment (IRA) Expertise to Give Actionable Insights</h1>
+                <p class="hero__subtitle">
+                    Strategic guidance to help you navigate the complexities of unwanted immunogenicity. From discovery through clinical development.
+                </p>
+                <div class="hero__cta">
+                    <a href="contact.html" class="btn btn--white btn--large">Schedule a Consultation</a>
+                    <a href="services.html" class="btn btn--outline-white btn--large">Explore Our Services</a>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- ============================================
+             SECTION 2: UNWANTED IMMUNOGENICITY INTRO
+             ============================================ -->
+        <section class="section">
+            <div class="container">
+                <div class="section__header">
+                    <h2 class="section__title">Understanding Unwanted Immunogenicity</h2>
+                </div>
+
+                <div class="grid grid--2" style="align-items: center; gap: var(--space-12);">
+                    <div>
+                        <h3>What Is Unwanted Immunogenicity?</h3>
+                        <p class="lead">
+                            Unwanted immunogenicity occurs when a patient's immune system recognizes
+                            a therapeutic biologic as foreign and mounts an immune response against it.
+                            This can lead to the formation of anti-drug antibodies (ADAs) that may
+                            neutralize the therapeutic effect or cause adverse reactions.
+                        </p>
+                    </div>
+                    <div>
+                        <h3>Why Does It Matter?</h3>
+                        <p class="lead">
+                            Immunogenicity risk can impact drug efficacy, patient safety, and regulatory approval timelines. Early and continuous risk assessment throughout discovery and development helps you anticipate challenges, design appropriate mitigation strategies, and build a robust clinical development plan.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- ============================================
+             SECTION 3: COMBINED SERVICES OVERVIEW
+             ============================================ -->
+        <section class="section section--alt">
+            <div class="container">
+                <div class="section__header">
+                    <h2 class="section__title">Immunogenicity Risk Assessment (IRA) Services</h2>
+                    <p class="section__description">
+                        Complementary expertise to provide comprehensive IRA support across your development program.
+                    </p>
+                </div>
+
+                <div class="grid grid--3">
+                    <div class="card service-card reveal-on-scroll">
+                        <div class="service-card__icon">
+                            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2">
+                                <path
+                                    d="M9 3H5a2 2 0 0 0-2 2v4m6-6h10a2 2 0 0 1 2 2v4M9 3v18m0 0h10a2 2 0 0 0 2-2V9M9 21H5a2 2 0 0 1-2-2V9m0 0h18" />
+                            </svg>
+                        </div>
+                        <h4 class="card__title">Discovery to IND Support</h4>
+                        <p class="card__text">
+                            Strategic immunogenicity guidance from target or therapeutic modality exploration through IND-enabling activities, ensuring immunogenicity-related risks are well-characterized before you enter clinical development.
+                        </p>
+                    </div>
+
+                    <div class="card service-card reveal-on-scroll">
+                        <div class="service-card__icon">
+                            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2">
+                                <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
+                            </svg>
+                        </div>
+                        <h4 class="card__title">Risk Mitigation Planning</h4>
+                        <p class="card__text">
+                            Proactive identification of immunogenicity risks with actionable mitigation strategies tailored to your therapeutic and the clinical context in which it will be deployed.
+                        </p>
+                    </div>
+
+                    <div class="card service-card reveal-on-scroll">
+                        <div class="service-card__icon">
+                            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2">
+                                <circle cx="12" cy="12" r="10" />
+                                <path d="M12 6v6l4 2" />
+                            </svg>
+                        </div>
+                        <h4 class="card__title">Program Troubleshooting</h4>
+                        <p class="card__text">
+                            Rapid assessment and strategic recommendations for programs facing unexpected immunogenicity challenges or regulatory questions about existing data.
+                        </p>
+                    </div>
+
+                    <div class="card service-card reveal-on-scroll">
+                        <div class="service-card__icon">
+                            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2">
+                                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
+                                <polyline points="14,2 14,8 20,8" />
+                                <line x1="16" y1="13" x2="8" y2="13" />
+                                <line x1="16" y1="17" x2="8" y2="17" />
+                            </svg>
+                        </div>
+                        <h4 class="card__title">Clinical Strategy</h4>
+                        <p class="card__text">
+                            Development of immunogenicity testing strategies, ADA assay design
+                            guidance, and clinical study protocols that address regulatory expectations.
+                        </p>
+                    </div>
+
+                    <div class="card service-card reveal-on-scroll">
+                        <div class="service-card__icon">
+                            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2">
+                                <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14" />
+                                <polyline points="22,4 12,14.01 9,11.01" />
+                            </svg>
+                        </div>
+                        <h4 class="card__title">Assay Oversight</h4>
+                        <p class="card__text">
+                            Technical guidance for nonclinical and clinical assay development and fit-for-purpose validation to ensure robust and regulatory-compliant immunogenicity testing.
+                        </p>
+                    </div>
+
+                    <div class="card service-card reveal-on-scroll">
+                        <div class="service-card__icon">
+                            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2">
+                                <path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2" />
+                                <rect x="8" y="2" width="8" height="4" rx="1" ry="1" />
+                                <path d="M9 14l2 2 4-4" />
+                            </svg>
+                        </div>
+                        <h4 class="card__title">Comparability Assessments</h4>
+                        <p class="card__text">
+                            Expert evaluation of immunogenicity implications from manufacturing changes, process modifications, or biosimilar development to support regulatory submissions.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="text-center mt-8">
+                    <a href="services.html" class="btn btn--primary btn--large">View All Services</a>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- ============================================
+             SECTION 4: WHEN TO INCORPORATE AN IRA
+             ============================================ -->
+        <section class="section">
+            <div class="container">
+                <div class="section__header">
+                    <h2 class="section__title">When Should You Incorporate an IRA?</h2>
+                    <p class="section__description">
+                        Key milestones and trigger points where immunogenicity risk assessment adds the most value
+                    </p>
+                </div>
+
+                <div class="timeline timeline--horizontal">
+                    <div class="timeline__item">
+                        <div class="timeline__marker"></div>
+                        <h4 class="timeline__title">Program Inception</h4>
+                        <p class="timeline__content">
+                            Inform decisions around therapeutic targets and modalities while elucidating opportunities for risk mitigation
+                        </p>
+                    </div>
+
+                    <div class="timeline__item">
+                        <div class="timeline__marker"></div>
+                        <h4 class="timeline__title">Preclinical Development Milestones</h4>
+                        <p class="timeline__content">
+                            Evaluate immunogenicity risk factors as your screen and commit to lead candidates
+                        </p>
+                    </div>
+
+                    <div class="timeline__item">
+                        <div class="timeline__marker"></div>
+                        <h4 class="timeline__title">Pre-IND Planning</h4>
+                        <p class="timeline__content">
+                            Develop comprehensive IRA before IND-enabling studies begin
+                        </p>
+                    </div>
+
+                    <div class="timeline__item">
+                        <div class="timeline__marker"></div>
+                        <h4 class="timeline__title">Sequence & Manufacturing Changes</h4>
+                        <p class="timeline__content">
+                            Re-assess whenever modifications are made to the molecule sequence, formulation or manufacturing processes
+                        </p>
+                    </div>
+
+                    <div class="timeline__item">
+                        <div class="timeline__marker"></div>
+                        <h4 class="timeline__title">Clinical Phase Transitions</h4>
+                        <p class="timeline__content">
+                            Update risk assessment with emerging clinical immunogenicity data
+                        </p>
+                    </div>
+                </div>
+
+                <div class="text-center mt-8">
+                    <a href="when-to-assess.html" class="btn btn--outline btn--large">Learn More About Timing</a>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- ============================================
+             SECTION 5: WHAT TO EXPECT
+             ============================================ -->
+        <section class="section section--alt">
+            <div class="container">
+                <div class="section__header">
+                    <h2 class="section__title">What to Expect</h2>
+                    <p class="section__description">
+                        A fit-for-purpose, efficient process designed to deliver actionable insights
+                    </p>
+                </div>
+
+                <div class="grid grid--2" style="gap: var(--space-12);">
+                    <div>
+                        <h3>Our Process</h3>
+                        <div class="process-steps">
+                            <div class="process-step">
+                                <h4 class="process-step__title">Introductory Discussion</h4>
+                                <p class="process-step__content">
+                                    Initial conversation to understand your program and define project needs and potential scope
+                                </p>
+                            </div>
+                            <div class="process-step">
+                                <h4 class="process-step__title">Project Onboarding & Data Sharing</h4>
+                                <p class="process-step__content">
+                                    After agreements are signed, share program background information and available data for evaluation
+                                </p>
+                            </div>
+                            <div class="process-step">
+                                <h4 class="process-step__title">Project Execution</h4>
+                                <p class="process-step__content">
+                                    Execution of project activities in close collaboration with you and aligned with the defined objectives and scope
+                                </p>
+                            </div>
+                            <div class="process-step">
+                                <h4 class="process-step__title">Insights & Deliverables</h4>
+                                <p class="process-step__content">
+                                    Recommendations, actionable outputs, and project artifacts delivered and refined to meet your needs
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h3>Example Deliverables</h3>
+                        <ul class="feature-list">
+                            <li class="feature-list__item">
+                                <svg class="feature-list__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2">
+                                    <polyline points="20,6 9,17 4,12" />
+                                </svg>
+                                <span class="feature-list__text">Comprehensive immunogenicity risk assessment reports</span>
+                            </li>
+                            <li class="feature-list__item">
+                                <svg class="feature-list__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2">
+                                    <polyline points="20,6 9,17 4,12" />
+                                </svg>
+                                <span class="feature-list__text">Customized nonclinical risk assessment strategies</span>
+                            </li>
+                            <li class="feature-list__item">
+                                <svg class="feature-list__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2">
+                                    <polyline points="20,6 9,17 4,12" />
+                                </svg>
+                                <span class="feature-list__text">Immunogenicity mitigation strategy recommendations</span>
+                            </li>
+                            <li class="feature-list__item">
+                                <svg class="feature-list__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2">
+                                    <polyline points="20,6 9,17 4,12" />
+                                </svg>
+                                <span class="feature-list__text">Clinical immune monitoring strategy guidance</span>
+                            </li>
+                            <li class="feature-list__item">
+                                <svg class="feature-list__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2">
+                                    <polyline points="20,6 9,17 4,12" />
+                                </svg>
+                                <span class="feature-list__text">Study design and experimental planning support</span>
+                            </li>
+                            <li class="feature-list__item">
+                                <svg class="feature-list__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2">
+                                    <polyline points="20,6 9,17 4,12" />
+                                </svg>
+                                <span class="feature-list__text">Data interpretation and integrated risk analyses</span>
+                            </li>
+                            <li class="feature-list__item">
+                                <svg class="feature-list__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2">
+                                    <polyline points="20,6 9,17 4,12" />
+                                </svg>
+                                <span class="feature-list__text">Regulatory-ready documentation and supporting materials</span>
+                            </li>
+                        </ul>
+
+                        <div class="mt-8">
+                            <a href="what-to-expect.html" class="btn btn--primary">See Full Process Details</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- ============================================
+             SECTION 6: DREAM TEAM PREVIEW
+             ============================================ -->
+        <section class="section">
+            <div class="container">
+                <div class="section__header">
+                    <h2 class="section__title">Leverage Our Immunogenicity Expertise to Your Strategic Advantage</h2>
+                    <p class="section__description">
+                        Two seasoned experts with complementary skills, united by a commitment to rigorous, actionable immunogenicity risk assessment
+                    </p>
+                </div>
+
+                <div class="team-grid">
+                    <div class="card team-card reveal-on-scroll">
+                        <img src="images/Dan_Headshot.png"
+                            alt="Daniel Leventhal Photo" class="team-card__image">
+                        <h3 class="team-card__name">Daniel Leventhal, MS, PhD</h3>
+                        <p class="team-card__title">Principal Consultant</p>
+                        <p class="team-card__credentials">
+                            Immunobiology, Platform Technologies and Immunogenicity<br>
+                            10+ years biologics R&D
+                        </p>
+                        <a href="team/consultant-1.html" class="btn btn--outline btn--small">View Profile</a>
+                    </div>
+
+                    <div class="card team-card reveal-on-scroll">
+                        <img src="images/Tim_Headshot.png"
+                            alt="Tim Hickling Photo" class="team-card__image">
+                        <h3 class="team-card__name">Tim Hickling, PhD</h3>
+                        <p class="team-card__title">Principal Consultant</p>
+                        <p class="team-card__credentials">
+                            Immunosafety, Immune Monitoring and QSP Modeling<br>
+                            19+ years industry experience
+                        </p>
+                        <a href="team/consultant-2.html" class="btn btn--outline btn--small">View Profile</a>
+                    </div>
+                </div>
+
+                <div class="text-center mt-8">
+                    <a href="team.html" class="btn btn--primary btn--large">Meet the Full Team</a>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- ============================================
+             SECTION 7: SUMMARY STATEMENT
+             ============================================ -->
+        <section class="section section--primary">
+            <div class="container">
+                <div style="max-width: 800px; margin: 0 auto; text-align: center;">
+                    <h2>Why We Work Together</h2>
+                    <p class="lead" style="opacity: 0.95; color: #457C77;">
+                        Diverse perspectives and close collaboration are key when facing complex challenges. We operate as independent experts but maintain a close working relationship, collaborating when projects benefit from complementary expertise. Clients can engage either of us individually while also accessing our broader combined range of experience when needed.
+                    </p>
+                    <p style="opacity: 0.9;">
+                        We believe that immunogenicity risk assessment should be proactive, not reactive. Our shared philosophy centers on integrating data-driven IRA throughout development, mitigating risks while helping teams appropriately weigh immunogenicity considerations alongside the many factors that determine a successful therapeutic.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- ============================================
+             SECTION 8: CTA BLOCK
+             ============================================ -->
+        <section class="section">
+            <div class="container">
+                <div class="cta-block reveal-on-scroll">
+                    <h2 class="cta-block__title">Looking for Immunogenicity Expertise?</h2>
+                    <p class="cta-block__text">
+                        Let's talk about how we can support your immunogenicity risk assessment needs. Introductory discussions are complimentary.
+                    </p>
+                    <div style="display: flex; flex-direction: column; gap: var(--space-4); align-items: center;">
+                        <a href="contact.html" class="btn btn--white btn--large">Contact Us Today</a>
+                        <p style="font-size: var(--text-sm); opacity: 0.8;">
+                            Or email us directly:<br>
+                            <a href="mailto:dan@tactylteam.com" style="color: white;">dan@tactylteam.com</a> |
+                            <a href="mailto:tim@quasor.co.uk" style="color: white;">tim@quasor.co.uk</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+
+    <!-- ============================================
+         FOOTER
+         ============================================ -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer__grid">
+                <div class="footer__brand">
+                    <div class="footer__logo">
+                        <img src="images/ImmunoVantage_Logo_Transparent.png" alt="ImmunoVantage Logo"
+                            style="height: 60px; width: auto; filter: brightness(0) invert(1);">
+                    </div>
+                    <p class="footer__tagline" style="color: #457C77;">
+                        Advantage through foresight and action.
+                        Strategic immunogenicity risk assessment for biologics development.
+                    </p>
+                </div>
+
+                <div>
+                    <h4 class="footer__title">Quick Links</h4>
+                    <ul class="footer__links">
+                        <li><a href="services.html" class="footer__link" style="color: #457C77;">Services</a></li>
+                        <li><a href="when-to-assess.html" class="footer__link" style="color: #457C77;">When to Assess</a></li>
+                        <li><a href="what-to-expect.html" class="footer__link" style="color: #457C77;">What to Expect</a></li>
+                        <li><a href="team.html" class="footer__link" style="color: #457C77;">Our Team</a></li>
+                        <li><a href="our-take.html" class="footer__link" style="color: #457C77;">Our Take</a></li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h4 class="footer__title">Contact</h4>
+                    <ul class="footer__links">
+                        <li><a href="mailto:dan@tactylteam.com" class="footer__link" style="color: #457C77;">dan@tactylteam.com</a>
+                        </li>
+                        <li><a href="mailto:tim@quasor.co.uk" class="footer__link" style="color: #457C77;">tim@quasor.co.uk</a>
+                        </li>
+                        <li><a href="contact.html" class="footer__link" style="color: #457C77;">Contact Form</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="footer__bottom">
+                <p>&copy;
+                    <script>document.write(new Date().getFullYear())</script> ImmunoVantage. All rights reserved.
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="js/main.js"></script>
+</body>
+
+</html>

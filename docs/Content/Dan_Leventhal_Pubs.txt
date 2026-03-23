@@ -1,0 +1,28 @@
+## Selected Publications — Daniel S. Leventhal
+
+### Immunogenicity, Risk Assessment & Field-Building
+- Agnihotri S, Gonzalez-Nolasco B, Monian B, Pattijn S, Ackaert C, Wu P, **Leventhal DS**, et al.  
+  *The Immunogenicity Database Collaborative (IDC): A standardized, publicly available database for clinical immunogenicity observations and insights.*  
+  bioRxiv (2025).
+
+---
+
+### Engineering Strategies to Mitigate Immunogenicity
+- Bootwala A, An HH, Franklin MW, Manning BJ, Xu LY, Panchal S, **Leventhal DS**, et al.  
+  *Protein re-surfacing of E. coli L-asparaginase to evade pre-existing anti-drug antibodies and hypersensitivity responses.*  
+  Frontiers in Immunology (2022).
+
+---
+
+### Immune Tolerance & Regulatory T Cell Biology (Foundational Mechanisms)
+- Malchow S, **Leventhal DS**, Lee V, Nishi S, Socci ND, Savage PA.  
+  *Aire enforces immune tolerance by directing autoreactive T cells into the regulatory T cell lineage.*  
+  Immunity (2016).
+
+- **Leventhal DS**, Gilmore DC, Berger JM, Nishi S, Lee V, Malchow S, et al.  
+  *Dendritic cells coordinate the development and homeostasis of organ-specific regulatory T cells.*  
+  Immunity (2016).
+
+- Savage PA, **Leventhal DS**, Malchow S.  
+  *Shaping the repertoire of tumor-infiltrating effector and regulatory T cells.*  
+  Immunological Reviews (2014).
